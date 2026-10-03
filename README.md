@@ -1,6 +1,6 @@
 #JSONC (Working Draft)
 
-JSONC stands for "JSON Commands".  It is an imperative language which is a subset of JSON.  Rather than representing objects, JSONC represents commands. For example, the following condition:
+JSONC stands for "JSON Commands".  It is an imperative language which is a subset of JSON.  Rather than representing objects, JSONC represents commands. For example, the following condition:##
 
     if (((a=='b') || (c>5)) && e!='f') {
       return 'done';
